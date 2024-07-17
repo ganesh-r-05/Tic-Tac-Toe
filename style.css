@@ -111,3 +111,7 @@ h1{
         width: 7rem;
     }
 }
+
+.hide{
+    display: none;
+}
